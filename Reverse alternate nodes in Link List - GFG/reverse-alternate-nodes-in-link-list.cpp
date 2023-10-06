@@ -114,7 +114,7 @@ class Solution
             temp=temp->next;
         }
         
-        temp->next=nullptr;
+        // temp->next=nullptr;
         ptr2->next=nullptr;
         temp->next = rev(head2->next);
     }
