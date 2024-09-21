@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> lexicalOrder(int n) {
-        Queue<Integer> queue = new LinkedList<>();
+        
         List<Integer> ans = new LinkedList<>();
         for(int j=1; j<=9;j++){
             if(j<=n) fun(j, n, ans);
