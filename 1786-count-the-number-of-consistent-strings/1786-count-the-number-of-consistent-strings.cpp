@@ -3,7 +3,7 @@ public:
     int countConsistentStrings(string allowed, vector<string>& words) {
         int arr[26]={0}, ans=0;
         for(char c:allowed)
-            arr[c-'a']++;
+            arr[c-'a']=1;
 
         for(string word: words){
             for(char c: word){
