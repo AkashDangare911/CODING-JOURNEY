@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -48,4 +49,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Stack
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1497-design-a-stack-with-increment-operation) |
+## Design
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
