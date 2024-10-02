@@ -11,10 +11,7 @@ public:
         int rank=1;
 
         for(int i=0;i<n;i++){
-            while(i+1<n && temp[i]==temp[i+1]){
-                i++;
-            }
-            if(i<n){
+            if(!mp.count(temp[i])){
                 mp[temp[i]]=rank;
                 rank++;
             }
