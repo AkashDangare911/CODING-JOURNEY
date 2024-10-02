@@ -9,17 +9,14 @@ public:
         sort(temp.begin(),temp.end());
         unordered_map<int,int> mp;
         int rank=1;
-        mp[temp[0]]=rank;
-        rank++;
 
-        for(int i=1;i<n;i++){
-            while(i<n && temp[i]==temp[i-1]){
+        for(int i=0;i<n;i++){
+            while(i+1<n && temp[i]==temp[i+1]){
                 i++;
             }
             if(i<n){
-
-            mp[temp[i]]=rank;
-            rank++;
+                mp[temp[i]]=rank;
+                rank++;
             }
         }
 
