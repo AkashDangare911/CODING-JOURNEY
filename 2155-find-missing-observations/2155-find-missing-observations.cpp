@@ -13,7 +13,7 @@ public:
         // divide remained equally, then distribute the remained
         int each = remain/n;
         vector<int> ans(n,each);
-        int extra = remain - (each*n);
+        int extra = remain%n;
         int i=0;
 
         while(extra--){
