@@ -13,12 +13,12 @@ public:
         // cout<<"remain"<<remain<<endl;
         // cout<<"sum"<<sum<<endl;
 
-        if(n>remain || each>6 || sum>total)  return {};
+        if(n>remain || remain>n*6 || sum>total)  return {};
 
         int extra = remain - (each*n);
-        if(extra && each==6){
-            return {};
-        }
+        // if(extra && each==6){
+        //     return {};
+        // }
 
         n-=extra;
         each++;
@@ -38,8 +38,8 @@ public:
         // cout<<"greattt\n";
         // cout<<"remain"<<remain<<endl;
         if(remain){
-            if(remain>6)
-                return {};
+            // if(remain>6)
+            //     return {};
             ans.push_back(remain);
         }
         return ans;
