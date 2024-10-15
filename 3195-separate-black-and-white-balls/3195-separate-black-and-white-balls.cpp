@@ -3,20 +3,14 @@ public:
     long long minimumSteps(string s) {
         long long ans=0;
         int n = s.size();
-        int i=n-1;
-        int count=0;
-        while(i>=0 && s[i]=='1')
-        {
-            count++;
-            i--;
-        }
+        int i=n-1, b_ind=n-1;
 
-       while(i>=0)
+        while(i>=0)
         {
             if(s[i]=='1')
             {
-                ans+=((n-1-i)-count);
-                count++;
+                ans+=(b_ind-i);
+                b_ind--;
             }
             i--;
         }
