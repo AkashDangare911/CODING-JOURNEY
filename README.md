@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1923-sentence-similarity-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3195-separate-black-and-white-balls](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3195-separate-black-and-white-balls) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -73,10 +74,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [3195-separate-black-and-white-balls](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3195-separate-black-and-white-balls) |
 ## Two Pointers
 |  |
 | ------- |
 | [1923-sentence-similarity-iii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1923-sentence-similarity-iii) |
+| [3195-separate-black-and-white-balls](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3195-separate-black-and-white-balls) |
 ## Math
 |  |
 | ------- |
