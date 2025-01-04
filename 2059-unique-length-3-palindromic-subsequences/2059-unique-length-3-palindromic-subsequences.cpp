@@ -4,7 +4,7 @@ class Solution {
     {
         unordered_set<char> st;
         int ans=0;
-        l++;
+        
         while(l<r)
         {
             if(!st.count(s[l])){
@@ -38,7 +38,7 @@ public:
         {
             // char has freq > 1
             if(second.count(p.first)){
-                ans+=countSubsequences(s,p.first,p.second,second[p.first]);
+                ans+=countSubsequences(s,p.first,p.second+1,second[p.first]);
             }
         }
 
