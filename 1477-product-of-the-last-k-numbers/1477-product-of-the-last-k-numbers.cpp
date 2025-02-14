@@ -18,13 +18,12 @@ public:
     }
     
     int getProduct(int k) {
-        int last = prefixProduct.size()-1;
         // this indicates that we have encountered zero somewhere at index <= k
-        if(last-k < 0)
+        if(k >= prefixProduct.size())
             return 0;
         
         // no zeros in left 'k' places
-        return prefixProduct.back()/prefixProduct[last-k];
+        return prefixProduct.back() / prefixProduct[prefixProduct.size() - k - 1];
     }
 };
 
