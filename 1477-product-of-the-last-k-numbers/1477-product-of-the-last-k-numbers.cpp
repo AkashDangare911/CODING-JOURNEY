@@ -14,6 +14,8 @@ public:
         int lastInd = prefixProduct.size()-1;
         while(k--)
         {
+            if(prefixProduct[lastInd] == 0)
+                return 0;
             prod = prod*prefixProduct[lastInd];
             lastInd--;
         }
