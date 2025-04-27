@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0539-minimum-time-difference) |
+| [0812-rotate-string](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1197-parsing-a-boolean-expression) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -140,4 +141,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1477-product-of-the-last-k-numbers) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
