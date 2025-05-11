@@ -1,17 +1,16 @@
 class Solution {
 private:
-    int findBeauty(string s)
+    int findBeauty(vector<int> &arr)
     {
-        int arr[26]={0};
         int mx=-1,mn=INT_MAX;
-        for(char c:s)
-            arr[c-'a']++;
 
         for(int i=0;i<26;i++)
         {
-            mx=max(mx,arr[i]);
             if(arr[i])
-               mn=min(mn,arr[i]);
+            {
+                mx=max(mx,arr[i]);
+                mn=min(mn,arr[i]);
+            }
         }
         return (mx>0 && mn!=INT_MAX) ? mx-mn : 0;
     }
@@ -22,11 +21,11 @@ public:
 
         for(int i=0;i<n;i++)
         {
-            string str="";
+            vector<int> freq(26,0);
             for(int j=i;j<n;j++)
             {
-                str.push_back(s[j]);
-                ans+=findBeauty(str);
+                freq[s[j]-'a']++;
+                ans+=findBeauty(freq);
             }
         }
 
