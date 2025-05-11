@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0151-reverse-words-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0539-minimum-time-difference) |
 | [0812-rotate-string](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0151-reverse-words-in-a-string) |
 | [1923-sentence-similarity-iii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1923-sentence-similarity-iii) |
 | [3195-separate-black-and-white-balls](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3195-separate-black-and-white-balls) |
 ## Math
