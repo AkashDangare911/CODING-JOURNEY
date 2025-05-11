@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0151-reverse-words-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0539-minimum-time-difference) |
 | [0812-rotate-string](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0812-rotate-string) |
