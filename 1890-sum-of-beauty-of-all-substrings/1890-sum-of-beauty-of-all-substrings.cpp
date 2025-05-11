@@ -3,7 +3,7 @@ private:
     int findBeauty(vector<int> &arr)
     {
         int mx=-1,mn=INT_MAX;
-
+        // find min and max freq of each char
         for(int i=0;i<26;i++)
         {
             if(arr[i])
@@ -12,7 +12,7 @@ private:
                 mn=min(mn,arr[i]);
             }
         }
-        return (mx>0 && mn!=INT_MAX) ? mx-mn : 0;
+        return mx-mn;
     }
 public:
     int beautySum(string s) {
@@ -21,6 +21,7 @@ public:
 
         for(int i=0;i<n;i++)
         {
+            // calculate freq of current substring, increment it with each incoming 'char'
             vector<int> freq(26,0);
             for(int j=i;j<n;j++)
             {
