@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0386-lexicographical-numbers) |
+| [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Trie
 |  |
 | ------- |
@@ -102,12 +103,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1256-rank-transform-of-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2215-finding-3-digit-even-numbers) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Greedy
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [3195-separate-black-and-white-balls](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3195-separate-black-and-white-balls) |
+| [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Two Pointers
 |  |
 | ------- |
@@ -169,4 +172,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0206-reverse-linked-list) |
+## Graph
+|  |
+| ------- |
+| [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 <!---LeetCode Topics End-->
