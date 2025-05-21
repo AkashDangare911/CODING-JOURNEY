@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0075-sort-colors) |
 | [0539-minimum-time-difference](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0539-minimum-time-difference) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0142-linked-list-cycle-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1256-rank-transform-of-an-array) |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0073-set-matrix-zeroes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 ## Data Stream
 |  |
