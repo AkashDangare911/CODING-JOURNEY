@@ -10,7 +10,7 @@
  */
 class Solution {
 private:
-    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
+    ListNode* mergeTwoLists(ListNode* &list1, ListNode* &list2) {
         ListNode* cur = new ListNode(0);
         ListNode* curPtr = cur;
 
