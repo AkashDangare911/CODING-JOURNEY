@@ -37,22 +37,12 @@ public:
 
         // again traverse on original list
         // get the 'randomPtr' of original list node and its corresponding new node as 'nodeFromMap' 
-        // also get the corrsponding new node for the random node as 'randomNodeRef'
-        // assign random ptr of 'nodeFromMap' to 'randomNodeRef'
+        // also get the corrsponding new node for the random node as 'cur->random'
         while(cur)
         {
-            Node* randomPtr = cur->random;
             Node* nodeFromMap = mp[cur];
+            nodeFromMap->random = mp[cur->random];
             cur=cur->next;
-
-            // handle the NULL case
-            if(randomPtr==NULL)
-                nodeFromMap->random = NULL;
-            else
-            {
-                Node* randomNodeRef = mp[randomPtr];
-                nodeFromMap->random = randomNodeRef;
-            }
         }
 
         return headPtr->next;
