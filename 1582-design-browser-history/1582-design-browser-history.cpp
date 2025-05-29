@@ -1,42 +1,41 @@
+class DLL{
+    public:
+    string tab;
+    DLL *next;
+    DLL *prev;
+    
+    DLL(string data){
+        this->tab = data;
+        this->next = NULL;
+        this->prev = NULL;
+    }
+};
+
 class BrowserHistory {
 public:
-// IMPLEMENTATION USING VECTOR
-    vector<string> browser;
-    int index, tabs;
-
+    DLL *browser;
+    DLL *head;
     BrowserHistory(string homepage) {
-        index=0,tabs=0;
-        browser.push_back(homepage);
+        head = new DLL(homepage);
     }
     
     void visit(string url) {
-        // if we have moves backward previously, means we have array available to add website
-        // then increase the index and add the webpage
-        if(index+1 < browser.size())
-        {
-            index++;
-            browser[index]=url;
-            tabs=index;
-        }
-        // we have to append new tab at the end
-        else
-        {
-            tabs++;
-            index++;
-            browser.push_back(url);
-        }
+        DLL *newTab = new DLL(url);
+        newTab->prev=head;
+        head->next = newTab;
+        head=head->next;
     }
     
     string back(int steps) {
-        // move 'steps' backward, if we can't return the first tab (HOMEPAGE)
-        steps>index ? index=0 : index-=steps;
-        return browser[index];
+        while(steps-- && head->prev)
+            head=head->prev;
+        return head->tab;
     }
     
     string forward(int steps) {
-        // move 'steps' forward, if we can't return the last tab
-        index+steps > tabs ? index=tabs : index+=steps;
-        return browser[index];
+        while(steps-- && head->next)
+            head=head->next;
+        return head->tab;
     }
 };
 
@@ -47,27 +46,3 @@ public:
  * string param_2 = obj->back(steps);
  * string param_3 = obj->forward(steps);
  */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
