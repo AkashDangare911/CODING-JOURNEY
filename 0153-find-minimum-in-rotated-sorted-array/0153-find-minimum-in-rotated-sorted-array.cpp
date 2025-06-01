@@ -7,7 +7,14 @@ public:
         while(left<=right)
         {
             int mid = (left+right)/2;
-
+            
+            // array between left and right pointers is completely sorted and our ans would be nums[left]
+            if(nums[left]<=nums[right])
+            {
+                ans=min(ans,nums[left]);
+                break;
+            }
+            
             // LEFT SORTED PART
             // we consider the leftmost element of sorted part as minimum
             // hence check it only and neglect the rest of the sorted part
