@@ -1,39 +1,37 @@
 class Solution {
+private:
+    double solve(double x, long long power, double ans)
+    {
+        // base case
+        if(power==0)
+            return ans;
+        
+        if(power&1)
+        {
+            ans*=x;
+            return solve(x,power-1,ans);
+        }
+        else
+        {
+            x*=x;
+            return solve(x,power/2,ans);
+        }
+    }
+
 public:
+    // USING RECURSION
     double myPow(double x, int n) {
+        // base case 0^100 || 1^100
         if(x==0 || x==1)
             return x;
-        
-        bool neg=n<0;
-        double ans=1;       // used to temporary store the multiplication of x ^ (odd powers) 
+
         long long power = n;
         power=abs(power);
+        
+        double ans = solve(x,power,(double)1);
 
-        // If we square the base, we must have to decrease the power by half
-        // we can only decrease power by half iff n is even
-        // if n is odd, then decrease it by 1, and continue the process
-        // keep the multi. of odd powers in ans variable, if will form final ans when power==1 in the ene
-        while(power>0)
-        {
-            // odd power
-            // - we have formed our current value in 'x'
-            // hence to decrease the power by 1, we need to ans by the current value i.e., 'x'
-            if(power&1)
-            {
-                ans = ans*x;
-                power--;
-            }
-            // event power - square the base, halve the power
-            else
-            {
-                x*=x;
-                power/=2;
-            }
-        }
-
-        // check if power was negative
-        if(neg)
-            ans = 1/ans;
+        if(n<0)
+            ans=1/ans;
         
         return ans;
     }
