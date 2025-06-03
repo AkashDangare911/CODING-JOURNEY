@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0162-find-peak-element) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0069-sqrtx) |
 | [0539-minimum-time-difference](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0670-maximum-swap) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1477-product-of-the-last-k-numbers) |
