@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1582-design-browser-history) |
+| [1646-kth-missing-positive-number](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1646-kth-missing-positive-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0540-single-element-in-a-sorted-array) |
+| [1646-kth-missing-positive-number](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1646-kth-missing-positive-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
 |  |
