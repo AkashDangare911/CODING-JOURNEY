@@ -1,22 +1,18 @@
 class Solution {
 public:
     int findKthPositive(vector<int>& arr, int k) {
-        int cur=1;
-        int i=0, n=arr.size();
-
-        while(k && i<n)
+        // for empty arr, missing 'k'th value would be k......{1)
+        // then if we keep adding numbers to array, it means they were not missing
+        // and we have to now search for higher k value
+        // however, if any value is greater than k, it meansthe kth missing would lie in between  
+        for(int i: arr)
         {
-            if(arr[i]==cur)
-            {
-                cur++,i++;
-            }
+            if(i<=k)
+                k++;
             else
-            {
-                cur++;
-                k--;
-            }
+                break;
         }
-        
-        return cur+k-1;
+
+        return k;
     }
 };
