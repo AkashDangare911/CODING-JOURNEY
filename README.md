@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2215-finding-3-digit-even-numbers) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2737-row-with-maximum-ones](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2737-row-with-maximum-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0073-set-matrix-zeroes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [2737-row-with-maximum-ones](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2737-row-with-maximum-ones) |
 ## Data Stream
 |  |
 | ------- |
