@@ -19,14 +19,14 @@ private:
                 n/=2;
             }
         }
-
         return ans;
     }
 public:
     int countGoodNumbers(long long n) {
-        long long ans=1;
-        int i=1;
-
+        // We have 5 choises for even index and 4 choises for odd index
+        // count the even & odd index count
+        // find 5^(eventIndexCount) * 4*(oddIndexCount)
+        // mod the ans to keep it in the range
         long long odd = n/2;
         long long even = n-odd;
 
