@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0670-maximum-swap) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1477-product-of-the-last-k-numbers) |
+| [2050-count-good-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2155-find-missing-observations) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Backtracking
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0206-reverse-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1197-parsing-a-boolean-expression) |
+| [2050-count-good-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2050-count-good-numbers) |
 ## Tree
 |  |
 | ------- |
