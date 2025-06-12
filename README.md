@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0162-find-peak-element) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0078-subsets) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0078-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
