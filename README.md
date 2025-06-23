@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0079-word-search) |
 | [0386-lexicographical-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0386-lexicographical-numbers) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Trie
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0151-reverse-words-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0539-minimum-time-difference) |
 | [0812-rotate-string](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0812-rotate-string) |
@@ -175,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0216-combination-sum-iii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -208,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0079-word-search) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2047-find-a-peak-element-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2737-row-with-maximum-ones) |
