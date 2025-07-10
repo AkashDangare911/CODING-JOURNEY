@@ -1,27 +1,30 @@
 class Solution {
 private:
-    void generateSubsets(int i, int n, vector<int> temp, vector<int>& nums, vector<vector<int>> &ans)
+    void checkSetBitsAndBuildCurrentArray(vector<int> &nums, int n, vector<vector<int>> &ans)
     {
-        // we are collecting all the combinatins forming at the end node
-        // of recursive tree, hence only add to 'ans', when at last index
-        if(i>=n)
-        {
-            ans.push_back(temp);
-            return;
-        }
+        vector<int> cur;
+        int ind=0;
 
-        // not-take
-        generateSubsets(i+1,n,temp,nums,ans);
-        
-        // take
-        temp.push_back(nums[i]);
-        generateSubsets(i+1,n,temp,nums,ans);
-        temp.pop_back();
+        while(n)
+        {
+            if(n&1)  
+                cur.push_back(nums[ind]);
+
+            ind++;
+            n=n>>1;
+        }
+        ans.push_back(cur);
     }
+
 public:
+    // USING BIT MANIPULATION
+    // - traverse through all elements from 0 --> 2^n-1
+    // - only place those indices in cur, whose bits are set in the current number
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>> ans;
-        generateSubsets(0,nums.size(),{},nums,ans);
+
+        for(int i=0;i<pow(2,nums.size());i++)
+            checkSetBitsAndBuildCurrentArray(nums,i,ans);
 
         return ans;
     }
