@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0151-reverse-words-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0539-minimum-time-difference) |
 | [0812-rotate-string](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0812-rotate-string) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0151-reverse-words-in-a-string) |
 | [1923-sentence-similarity-iii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1923-sentence-similarity-iii) |
