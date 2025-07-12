@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0090-subsets-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1435-xor-queries-of-a-subarray) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0069-sqrtx) |
 | [0539-minimum-time-difference](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0539-minimum-time-difference) |
