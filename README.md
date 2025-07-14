@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0069-sqrtx) |
 | [0539-minimum-time-difference](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0670-maximum-swap) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1477-product-of-the-last-k-numbers) |
 | [2050-count-good-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2155-find-missing-observations) |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0206-reverse-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1582-design-browser-history](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1582-design-browser-history) |
 ## Graph
 |  |
