@@ -2,39 +2,24 @@ class Solution {
 public:
     vector<int> nextGreaterElements(vector<int>& nums) {
         int n=nums.size();
-        vector<int> ans(2*n,-1);
-        stack<int> st;
+        vector<int> ans(n,-1);
+        stack<int> st;         
+        int i=2*n-1;
 
-        for(int i=0;i<n;i++)
-            nums.push_back(nums[i]);
-        
-        n = nums.size();
-        int i=n-1;
-
-        // 1,2,3,4,3,1,2,3,4,3
-        //    2 3 4-1 4 2 3 4-1-1
-
+        // use i%n to find hypothetical index
         while(i>=0)
         {
-            if(st.empty())
-            {
-                st.push(nums[i]);
-            }
-            else
-            {
-                while(!st.empty() && st.top()<=nums[i])
-                {
-                    st.pop();
-                }
+            // remove all smaller elements
+            while(!st.empty() && st.top()<=nums[i%n])
+                st.pop();
 
-                if(!st.empty())
-                    ans[i]=st.top();
+            if(!st.empty() && i<n)
+                ans[i]=st.top();
 
-                st.push(nums[i]);
-            }
+            st.push(nums[i%n]);
             i--;
         }
 
-        return {ans.begin(),ans.begin()+n/2};
+        return ans;
     }
 };
