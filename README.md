@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0260-single-number-iii) |
+| [0496-next-greater-element-i](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0540-single-element-in-a-sorted-array) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1256-rank-transform-of-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -292,4 +295,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1813-maximum-erasure-value) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
