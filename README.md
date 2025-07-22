@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0216-combination-sum-iii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0540-single-element-in-a-sorted-array) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0503-next-greater-element-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -299,4 +301,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
