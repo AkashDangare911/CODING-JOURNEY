@@ -9,18 +9,19 @@ public:
         while(left<k)
         {
             sum+=cards[left];
-            ans=max(ans,sum);
             left++;
         }
 
+        // we got leftSum till far
+        ans=max(ans,sum);
+        left--;
+
         // pick rightmost elements while removing leftmost elements in a turn
-        while(left>0)
+        while(left>=0)
         {
-            left--;
-            sum-=cards[left];
-            sum+=cards[right];
+            sum-=cards[left--];
+            sum+=cards[right--];
             ans=max(ans,sum);
-            right--;
         }
 
         return ans;
