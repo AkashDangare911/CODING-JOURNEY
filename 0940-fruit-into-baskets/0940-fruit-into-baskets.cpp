@@ -10,16 +10,20 @@ public:
         {
             mp[fruits[right]]++;
 
-            while(left<right && mp.size()>2)
+            // keep the window size same
+            if(mp.size()>2)
             {
-                mp[fruits[left]]--;
-                if(mp[fruits[left]]==0)
-                    mp.erase(fruits[left]);
+                int leftEle=fruits[left];
+                mp[leftEle]--;
+                if(mp[leftEle]==0)
+                    mp.erase(leftEle);
                 
                 left++;
             }
 
-            ans=max(ans,right-left+1);
+            if(mp.size()<=2)
+                ans=max(ans,right-left+1);
+
             right++;
         }
 
