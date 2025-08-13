@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0069-sqrtx) |
+| [0326-power-of-three](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0326-power-of-three) |
 | [0539-minimum-time-difference](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0670-maximum-swap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0326-power-of-three) |
 | [1197-parsing-a-boolean-expression](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2050-count-good-numbers) |
 ## Tree
