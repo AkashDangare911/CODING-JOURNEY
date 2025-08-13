@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0735-asteroid-collision) |
+| [0940-fruit-into-baskets](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1046-max-consecutive-ones-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1256-rank-transform-of-an-array) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0496-next-greater-element-i) |
+| [0940-fruit-into-baskets](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0940-fruit-into-baskets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1256-rank-transform-of-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1813-maximum-erasure-value) |
