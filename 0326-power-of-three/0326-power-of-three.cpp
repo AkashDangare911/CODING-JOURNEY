@@ -3,17 +3,12 @@ public:
     bool isPowerOfThree(int n) {
         if(n<=0)
             return false;
-        
-        long long ans=1;
 
-        while(ans<INT_MAX)
-        {
-            if(ans==n)
-                return true;
-            
-            ans*=3;
-        }
+        // keep dividing n by 3 until, we eventually comes to 1
+        // or if the remainder is not 0
+        while(n%3==0)
+            n/=3;
 
-        return false;
+        return n==1;;
     }
 };
