@@ -9,57 +9,38 @@
  * };
  */
 class Solution {
-private:
-    ListNode* mergeTwoLists(ListNode* &list1, ListNode* &list2) {
+public:
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        if(!lists.size())  return NULL;
+        
+        // create minHeap
+        priority_queue<pair<int,ListNode*>,vector<pair<int,ListNode*>>,greater<pair<int,ListNode*>>> minHeap;
         ListNode* cur = new ListNode(0);
-        ListNode* curPtr = cur;
+        ListNode* curPtr=cur;
 
-        // untill one of the list exhausts
-        while(list1 && list2)
+        // insert all starting points of lists with it's value
+        for(ListNode* node: lists)
         {
-            if(list1->val < list2->val)
-            {
-                cur->next=list1;
-                list1=list1->next;
-            }
-            else
-            {
-                cur->next=list2;
-                list2=list2->next;
-            }
+            if(node)
+                minHeap.push({node->val,node});
+        }
+
+        while(!minHeap.empty())
+        {
+            // get the min element & add it to the list
+            // also move its pointer to its next
+            ListNode* temp=minHeap.top().second;
+            cur->next = temp;
+            temp = temp->next;
+            
+            // pop the min node & push its next pointer node (avoid pushing NULL)
+            minHeap.pop();
+            if(temp)
+                minHeap.push({temp->val,temp});
+
             cur=cur->next;
         }
 
-        // if any list exhausts, attach cur to other list 
-        // as further nodes are already in sorted order
-        if(list1)
-            cur->next=list1;
-        else
-            cur->next=list2;
-
         return curPtr->next;
-    }
-
-    // recursively call for next sorted list head
-    ListNode* solve(vector<ListNode*> &lists, int i)
-    {
-        // return the list for last index
-        if(i>=lists.size()-1)
-            return lists[i];
-        
-        // recurse till last index
-        ListNode* sortedHead = solve(lists,i+1);
-        // merge list present at next ptr and current list
-        return mergeTwoLists(sortedHead,lists[i]);
-    }
-public:
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        int n = lists.size();
-        if(n==0)
-            return NULL;
-        if(n==1)
-            return lists[0];
-
-        return solve(lists,0);
     }
 };
