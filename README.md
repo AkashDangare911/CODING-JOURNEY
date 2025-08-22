@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2215-finding-3-digit-even-numbers) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2737-row-with-maximum-ones](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2737-row-with-maximum-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2047-find-a-peak-element-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2737-row-with-maximum-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Data Stream
 |  |
 | ------- |
