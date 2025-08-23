@@ -7,19 +7,23 @@ public:
             return false;
         
         unordered_map<int,int>mp;
+        priority_queue<int,vector<int>,greater<int>> pq;
         int minEle=INT_MAX;
 
         // count freq of element
         for(int i:hand)
             mp[i]++;
+        
+        // keep all unique elements in min-heap to get smallest element fast
+        for(auto &p:mp)
+            pq.push(p.first);
 
-        // get the min element from map
+        // get the min element from min-heap
         // check if it's consecutive elements also exist in map or not
         while(mp.size())
         {
-            minEle=INT_MAX;
-            for(auto p:mp)
-                minEle=min(minEle,p.first);
+            minEle=pq.top();
+            pq.pop();
 
             int cnt=0, minFreq=mp[minEle];
             int cur=minEle;
