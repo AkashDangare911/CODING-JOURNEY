@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0540-single-element-in-a-sorted-array) |
+| [0621-task-scheduler](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0735-asteroid-collision) |
 | [0940-fruit-into-baskets](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1046-max-consecutive-ones-iii) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0621-task-scheduler) |
 | [0940-fruit-into-baskets](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0940-fruit-into-baskets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1256-rank-transform-of-an-array) |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0621-task-scheduler) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -173,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0075-sort-colors) |
 | [0539-minimum-time-difference](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0539-minimum-time-difference) |
+| [0621-task-scheduler](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0621-task-scheduler) |
 | [1256-rank-transform-of-an-array](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1256-rank-transform-of-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2215-finding-3-digit-even-numbers) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -180,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [3195-separate-black-and-white-balls](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3195-separate-black-and-white-balls) |
@@ -295,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0023-merge-k-sorted-lists) |
+| [0621-task-scheduler](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
 | ------- |
