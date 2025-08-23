@@ -1,42 +1,41 @@
 class Solution {
+private:
+    bool canFormSequence(vector<int> &hand, int size, int ind)
+    {
+        int count=1;
+        int prev=hand[ind];
+        hand[ind]=-1;
+        ind++;
+
+        while(ind<hand.size() && count<size)
+        {
+            if(hand[ind] == prev+1)
+            {
+                prev=hand[ind];
+                hand[ind]=-1;
+                count++;
+            }
+            ind++;
+        }
+        
+        return count==size;
+    }
 public:
     bool isNStraightHand(vector<int>& hand, int groupSize) {
         int n=hand.size();
         // we can't divide array in equal parts
         if(n%groupSize)
             return false;
-        
-        unordered_map<int,int>mp;
-        priority_queue<int,vector<int>,greater<int>> pq;
-        int minEle=INT_MAX;
 
-        // count freq of element
-        for(int i:hand)
-            mp[i]++;
-        
-        // keep all unique elements in min-heap to get smallest element fast
-        for(auto &p:mp)
-            pq.push(p.first);
+        // to keep smallest element at start
+        sort(hand.begin(),hand.end());
 
-        // get the min element from min-heap
-        // check if it's consecutive elements also exist in map or not
-        while(mp.size())
+        for(int i=0;i<n;i++)
         {
-            minEle=pq.top();
-            pq.pop();
-
-            int cnt=0, minFreq=mp[minEle];
-            int cur=minEle;
-            while(cnt<groupSize)
+            if(hand[i]!=-1)
             {
-                if(mp[cur]<minFreq)
+                if(!canFormSequence(hand,groupSize,i))
                     return false;
-                
-                mp[cur]-=minFreq;
-                if(mp[cur]<=0)
-                    mp.erase(cur);
-                cur++;
-                cnt++;
             }
         }
 
