@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1497-design-a-stack-with-increment-operation](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1582-design-browser-history](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1582-design-browser-history) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1646-kth-missing-positive-number](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1646-kth-missing-positive-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1813-maximum-erasure-value) |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0022-generate-parentheses) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Linked List
 |  |
 | ------- |
@@ -328,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1813-maximum-erasure-value) |
 ## Monotonic Stack
 |  |
