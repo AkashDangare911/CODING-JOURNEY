@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0151-reverse-words-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0539-minimum-time-difference) |
 | [0812-rotate-string](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0812-rotate-string) |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0216-combination-sum-iii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0131-palindrome-partitioning) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Linked List
 |  |
