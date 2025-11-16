@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1197-parsing-a-boolean-expression) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1923-sentence-similarity-iii) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0670-maximum-swap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1477-product-of-the-last-k-numbers) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2050-count-good-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2155-find-missing-observations) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3172-divisible-and-non-divisible-sums-difference) |
