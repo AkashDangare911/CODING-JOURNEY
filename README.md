@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2215-finding-3-digit-even-numbers) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2737-row-with-maximum-ones](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2737-row-with-maximum-ones) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2215-finding-3-digit-even-numbers) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Greedy
 |  |
@@ -244,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2215-finding-3-digit-even-numbers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Recursion
 |  |
 | ------- |
