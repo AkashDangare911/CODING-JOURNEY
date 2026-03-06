@@ -3,17 +3,19 @@ public:
     bool checkOnesSegment(string s) {
         int n=s.size();
         int i=0;
-
-        while(i<n && s[i]!='1')
-            i++;
-
-        while(i<n && s[i]=='1')
-            i++;
+        bool found=false;
 
         while(i<n)
         {
-            if(s[i]=='1')
+            if(found && s[i]=='1')
                 return false;
+
+            if(s[i]=='1')
+            {
+                found=true;
+                while(i<n && s[i]=='1')
+                    i++;
+            }
             i++;
         }
         return true;
