@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2215-finding-3-digit-even-numbers) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2553-separate-the-digits-in-an-array](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2553-separate-the-digits-in-an-array) |
 | [2737-row-with-maximum-ones](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2737-row-with-maximum-ones) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0735-asteroid-collision) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2155-find-missing-observations) |
+| [2553-separate-the-digits-in-an-array](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2553-separate-the-digits-in-an-array) |
 | [3447-clear-digits](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
