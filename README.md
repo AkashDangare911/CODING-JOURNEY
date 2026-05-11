@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0099-recover-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0386-lexicographical-numbers) |
+| [0572-subtree-of-another-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0572-subtree-of-another-tree) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Trie
 |  |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0099-recover-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0572-subtree-of-another-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0099-recover-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0572-subtree-of-another-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Matrix
 |  |
@@ -292,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0812-rotate-string) |
 ## Dynamic Programming
 |  |
@@ -355,4 +359,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0099-recover-binary-search-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
