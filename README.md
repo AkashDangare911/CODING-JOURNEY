@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0099-recover-binary-search-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0099-recover-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0386-lexicographical-numbers) |
 | [0572-subtree-of-another-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0572-subtree-of-another-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Trie
 |  |
@@ -269,10 +270,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0099-recover-binary-search-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0572-subtree-of-another-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -280,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0099-recover-binary-search-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0572-subtree-of-another-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Matrix
 |  |
@@ -364,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Hash Function
 |  |
 | ------- |
