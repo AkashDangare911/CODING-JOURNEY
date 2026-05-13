@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0162-find-peak-element) |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0572-subtree-of-another-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
@@ -276,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0572-subtree-of-another-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Matrix
@@ -324,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -359,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Hash Function
 |  |
 | ------- |
