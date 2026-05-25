@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0735-asteroid-collision) |
 | [0876-hand-of-straights](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0876-hand-of-straights) |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0542-01-matrix) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0079-word-search) |
+| [0542-01-matrix](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0542-01-matrix) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2047-find-a-peak-element-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2737-row-with-maximum-ones) |
@@ -310,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0131-palindrome-partitioning) |
+| [0542-01-matrix](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0542-01-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Linked List
 |  |
