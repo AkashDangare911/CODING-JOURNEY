@@ -18,30 +18,21 @@ private:
             markBoundaryNodes(nrow,ncol,grid);
         }
     }
-    
+
 public:
     int numEnclaves(vector<vector<int>>& grid) {
         int m=grid.size();
         int n=grid[0].size();
 
-        // first & last rows
-        for(int i=0;i<n;i++)
-        {
-            if(grid[0][i]==1)
-                markBoundaryNodes(0,i,grid);
-            
-            if(grid[m-1][i]==1)
-                markBoundaryNodes(m-1,i,grid);
-        }
-
-        // first & last col
+         // boundary traversal
         for(int i=0;i<m;i++)
         {
-            if(grid[i][0]==1)
-                markBoundaryNodes(i,0,grid);
-            
-            if(grid[i][n-1]==1)
-                markBoundaryNodes(i,n-1,grid);
+            for(int j=0;j<n;j++)
+            {
+                // current position is on boundary and value is 1 (land)
+                if(i==0 || j==0 || i==m-1 || j==n-1 && grid[i][j]==1)
+                    markBoundaryNodes(i,j,grid);
+            }
         }
 
         int ans=0;
