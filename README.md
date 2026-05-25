@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0386-lexicographical-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0386-lexicographical-numbers) |
 | [0572-subtree-of-another-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1020-number-of-enclaves](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1020-number-of-enclaves) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Trie
 |  |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0735-asteroid-collision) |
 | [0876-hand-of-straights](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0940-fruit-into-baskets) |
+| [1020-number-of-enclaves](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1020-number-of-enclaves) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1046-max-consecutive-ones-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1256-rank-transform-of-an-array) |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0542-01-matrix) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1020-number-of-enclaves](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1020-number-of-enclaves) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -297,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0542-01-matrix) |
+| [1020-number-of-enclaves](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1020-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2047-find-a-peak-element-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2737-row-with-maximum-ones) |
@@ -385,4 +389,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
