@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0386-lexicographical-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0386-lexicographical-numbers) |
 | [0572-subtree-of-another-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1020-number-of-enclaves) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Trie
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0542-01-matrix) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1020-number-of-enclaves) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -389,5 +391,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0130-surrounded-regions) |
+| [0785-is-graph-bipartite](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1020-number-of-enclaves) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
