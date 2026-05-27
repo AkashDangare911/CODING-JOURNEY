@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2215-finding-3-digit-even-numbers) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3195-separate-black-and-white-balls) |
 | [3447-clear-digits](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3447-clear-digits) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
