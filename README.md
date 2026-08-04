@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2737-row-with-maximum-ones](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2737-row-with-maximum-ones) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3731-find-missing-elements](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3731-find-missing-elements) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2215-finding-3-digit-even-numbers) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3731-find-missing-elements](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3731-find-missing-elements) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2215-finding-3-digit-even-numbers) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3731-find-missing-elements](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3731-find-missing-elements) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Greedy
 |  |
