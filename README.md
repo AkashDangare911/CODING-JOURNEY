@@ -248,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2050-count-good-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2155-find-missing-observations) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/2215-finding-3-digit-even-numbers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AkashDangare911/CODING-JOURNEY/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
